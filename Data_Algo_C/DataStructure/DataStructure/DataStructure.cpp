@@ -6,6 +6,8 @@ using namespace std;
 
 int main()
 {
+
+/*
 	int A[10] = {2,4,5,6,12};
 
 	cout<<sizeof(A)<<endl; // A[5] size is 20, 4 bytes per number
@@ -20,6 +22,12 @@ int main()
 	{
 		cout << x << endl;
 	}
+*/
+	int a=10;
+	int *p;
+	p = &a;
+	
+	cout<<*p<<endl;
 
 	return 0;
 }
