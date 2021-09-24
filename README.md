@@ -1,3 +1,3 @@
 # Tutorials
 
-To record project blueprints.
+To record project blueprints during learning.
