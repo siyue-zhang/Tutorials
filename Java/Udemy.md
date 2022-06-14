@@ -29,3 +29,18 @@ byte myNewByteValue = (byte) (Int Value)
 ### String
 
 String is a datatype in Java, which is not a primitive type. It's actually a **Class**. It's a sequence of characters, limited by memory or the MAX_VALUE of an int which is 2.14 billion. 
+
+String in Java is **immutable**. **StringBuffer** can be changed. 
+
+### if-then
+
+```Java
+boolean isAlien = false
+if (isAlien == false) {
+   System.out.println("No!");
+}
+```
+
+```Java
+boolean wasCar = isCar ? true : false;
+```
