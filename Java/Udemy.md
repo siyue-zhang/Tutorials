@@ -3,6 +3,7 @@
 ## Priminitive Types
 
 * boolean
+    * boolean value = true;
 * byte (**8 bits**)
     * Byte.MIN_VALUE **-128** / Byte.MAX_VALUE **127**
 * char (single character)
@@ -25,3 +26,6 @@
 byte myNewByteValue = (byte) (Int Value) 
 ```
 
+### String
+
+String is a datatype in Java, which is not a primitive type. It's actually a **Class**. It's a sequence of characters, limited by memory or the MAX_VALUE of an int which is 2.14 billion. 
