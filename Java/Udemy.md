@@ -1,3 +1,15 @@
-# Tutorials
+# Java Udemy Notes
 
-To record project blueprints during learning.
+### Priminitive Types
+
+* boolean
+* byte
+* char
+* short
+* int
+    * Integer.MIN_VALUE
+* long;
+* float
+* double 
+
+
